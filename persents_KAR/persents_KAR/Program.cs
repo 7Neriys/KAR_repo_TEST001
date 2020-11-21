@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace persents_KAR {
     class Program {
         static void Main(string[] args) {
+            Console.WriteLine("КУ");
         }
     }
 }
